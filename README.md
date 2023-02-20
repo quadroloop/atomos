@@ -1,6 +1,6 @@
 # Atomos
 
-> A concise boilerplate for building experimental interconnected webapps
+> A concise boilerplate for building experimental interconnected web apps
 
 ### Project Goal
 
@@ -10,4 +10,4 @@ this means that the web applications built with atomos has the following propert
 1. `Lightweight` - Relatively small bundle size
 2. `Performant` - The boilerplate is not design for large scale or even production level system, but it does promote being efficient
 3. `Offline` - Apps built with atomos should ideally run under a local network
-4. `Realtime` - the boilerplate has websockets built in to support realtime communicationes between devices.
+4. `Realtime` - the boilerplate has websockets built in to support realtime communication between devices.
